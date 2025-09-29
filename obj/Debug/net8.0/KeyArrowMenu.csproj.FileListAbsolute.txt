@@ -1,0 +1,15 @@
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\bin\Debug\net8.0\KeyArrowMenu.exe
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\bin\Debug\net8.0\KeyArrowMenu.deps.json
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\bin\Debug\net8.0\KeyArrowMenu.runtimeconfig.json
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\bin\Debug\net8.0\KeyArrowMenu.dll
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\bin\Debug\net8.0\KeyArrowMenu.pdb
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\obj\Debug\net8.0\KeyArrowMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\obj\Debug\net8.0\KeyArrowMenu.AssemblyInfoInputs.cache
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\obj\Debug\net8.0\KeyArrowMenu.AssemblyInfo.cs
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\obj\Debug\net8.0\KeyArrowMenu.csproj.CoreCompileInputs.cache
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\obj\Debug\net8.0\KeyArrowMenu.sourcelink.json
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\obj\Debug\net8.0\KeyArrowMenu.dll
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\obj\Debug\net8.0\refint\KeyArrowMenu.dll
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\obj\Debug\net8.0\KeyArrowMenu.pdb
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\obj\Debug\net8.0\KeyArrowMenu.genruntimeconfig.cache
+C:\Users\SchadlMelani_3k1p0ca\source\repos\Shop\KeyArrowMenu\obj\Debug\net8.0\ref\KeyArrowMenu.dll
