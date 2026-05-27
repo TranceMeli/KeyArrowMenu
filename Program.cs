@@ -1,3 +1,3 @@
 ﻿using KeyArrowMenu;
 
-Menu.HauptMenu();
+App.Run();
