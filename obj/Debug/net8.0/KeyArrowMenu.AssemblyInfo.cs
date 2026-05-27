@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeyArrowMenu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abec5579e45ce40a5d909a90a00292cef0787ab3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cbdeff57680da53b5505bfca31f7bc4c9578576")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeyArrowMenu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeyArrowMenu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
